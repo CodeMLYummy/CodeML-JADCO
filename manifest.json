@@ -1,0 +1,40 @@
+{
+  "challengeId": "11",
+  "files": [
+    {
+      "path": "consignes.pdf",
+      "bytes": 52590,
+      "sha256": "e5c2310d23a77776d8ddf24086c9431ffdafa0f17cd3d97ffac9ec210f7b93e7"
+    },
+    {
+      "path": "equinoxe_asking_history.csv",
+      "bytes": 327891,
+      "sha256": "c0c6bf7ef23ed57ef6703546a85bb6937f35797ce09dbca8f48dbd206852c3d3"
+    },
+    {
+      "path": "equinoxe_concessions.csv",
+      "bytes": 479881,
+      "sha256": "b62d7110f5738f9d094317360683aa8b9516120a549b9fe7fb763a0be9ef82ed"
+    },
+    {
+      "path": "equinoxe_lease_history.csv",
+      "bytes": 1225224,
+      "sha256": "1f13375d4777bf997f65eaaba68bf51cd6045cce69d58cd974c100cbff30ce76"
+    },
+    {
+      "path": "equinoxe_listings.csv",
+      "bytes": 278093,
+      "sha256": "29f9a9789cefbb2f69ff05da426712e8bad39176df45655605ba4e0aec66d270"
+    },
+    {
+      "path": "presentation-jadco.pdf",
+      "bytes": 2911256,
+      "sha256": "3b573f4b8e0742bacc9f2ff8b3be15af5c638efff739c781450fc7b854c95b46"
+    },
+    {
+      "path": "starter.ipynb",
+      "bytes": 25699,
+      "sha256": "6dd6eca6eb67cd9af9f8d99fde641bd71d3951e144571afe31b9e9cc0f76d48a"
+    }
+  ]
+}

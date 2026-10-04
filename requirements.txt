@@ -1,0 +1,7 @@
+# Dépendances du notebook (Python 3.10 ou plus récent).
+# Versions testées : Python 3.12.3, pandas 3.0.2, numpy 2.4.4, matplotlib 3.10.8, openpyxl 3.1.5
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+openpyxl>=3.1      # lecture des classeurs Excel de la SCHL (section 13.1)
+jupyter

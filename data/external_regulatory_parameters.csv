@@ -1,0 +1,17 @@
+year,series,value_pct,source_url,note
+2019,tal_reference_pct,,https://www.tal.gouv.qc.ca/en/news/calculation-of-the-2019-rent-increase,tableau publié en image seulement
+2020,tal_reference_pct,1.2,https://www.silo57.ca/2025/01/21/le-tal-revele-la-hausse-moyenne-des-loyers-en-2025-et-confirme-nos-craintes,source secondaire (historique du TAL)
+2021,tal_reference_pct,0.8,https://www.silo57.ca/2025/01/21/le-tal-revele-la-hausse-moyenne-des-loyers-en-2025-et-confirme-nos-craintes,source secondaire (historique du TAL)
+2022,tal_reference_pct,1.28,https://www.tal.gouv.qc.ca/sites/default/files/COMMUNIQUE_FIXATION_2022_FR.pdf,communiqué officiel
+2023,tal_reference_pct,2.3,https://www.tal.gouv.qc.ca/sites/default/files/COMMUNIQUE_FIXATION_2023_FR.pdf,communiqué officiel
+2024,tal_reference_pct,4.0,https://www.tal.gouv.qc.ca/sites/default/files/COMMUNIQUE_FIXATION_2024_FR.pdf,communiqué officiel
+2025,tal_reference_pct,5.9,https://www.protegez-vous.ca/nouvelles/argent/le-tal-propose-des-hausses-de-loyer-historiques,dernière année de l'ancienne méthode
+2026,tal_reference_pct,3.1,https://www.quebec.ca/nouvelles/actualites/details/le-calcul-de-lajustement-des-loyers-en-2026-68053,nouvelle méthode : moyenne de l'IPC du Québec sur 3 ans
+2019,ontario_guideline_pct,1.8,https://tribunalsontario.ca/2018/07,
+2020,ontario_guideline_pct,2.2,https://tribunalsontario.ca/2019/06/,
+2021,ontario_guideline_pct,0.0,https://www.ontario.ca/page/rent-increase-guideline,gel des loyers (COVID-19)
+2022,ontario_guideline_pct,1.2,https://amp.cbc.ca/lite/story/1.6894097,
+2023,ontario_guideline_pct,2.5,https://www.ontario.ca/page/rent-increase-guideline,
+2024,ontario_guideline_pct,2.5,https://www.ontario.ca/page/rent-increase-guideline,
+2025,ontario_guideline_pct,2.5,https://www.ontario.ca/page/rent-increase-guideline,
+2026,ontario_guideline_pct,2.1,https://www.ontario.ca/page/rent-increase-guideline,ne s'applique pas aux unités occupées pour la première fois après le 15 novembre 2018
