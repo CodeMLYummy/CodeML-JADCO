@@ -91,17 +91,10 @@ Le jeu de données Kaggle suggéré dans les consignes n'a pas été utilisé : 
 
 ## Outils d'IA utilisés
 
-- **Claude (Anthropic)**, modèle Claude Opus 5.5, via claude.ai. Utilisé comme assistant tout au long du projet : exploration des données, rédaction et vérification du code, recherche et citation des paramètres réglementaires, rédaction des cellules Markdown et de cette documentation.
+- **Claude (Anthropic)**, modèle Claude Opus 5.5, via claude.ai. Utilisé comme assistant tout au long du projet : exploration des données, rédaction et vérification du code, recherche et citation des paramètres réglementaires, etc.
 - Les choix de méthode ont été discutés et validés par l'équipe, et chaque résultat a été vérifié par l'exécution du notebook.
 
 Ces outils sont aussi cités dans la section **Références** du notebook, comme l'exigent les consignes.
 
-## Confidentialité
-
-Les données du CRM (`equinoxe_*.csv`) sont confidentielles. Elles **ne doivent pas être partagées, publiées ni déposées** dans un dépôt public (GitHub, Kaggle, etc.), et ne font **pas partie des livrables**. Si le projet est versionné avec Git, ajouter cette ligne au fichier `.gitignore` :
-
-```
-equinoxe_*.csv
-```
 
 Les fichiers publics de `data/` et les deux fichiers produits par le notebook peuvent être livrés.
